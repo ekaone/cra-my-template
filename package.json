@@ -1,7 +1,27 @@
 {
-  "name": "cra-my-template",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:ekaone/cra-my-template.git",
-  "license": "MIT"
+  "name": "craekapm",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "eka"
+  ],
+  "description": "The base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekaone/cra-my-template",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/ekaone/cra-my-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
